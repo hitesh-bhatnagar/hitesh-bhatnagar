@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,r,c,cpp,verilog,matlab,tensorflow,pytorch,keras,scikit-learn,opencv,html,css,js,dart,flutter,nodejs,react,git,github,mysql,postgres,linux,vscode,bash,arduino,latex,figma,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,java,r,c,cpp,verilog,matlab,tensorflow,pytorch,keras,scikit-learn,opencv,dart,flutter,git,github,mysql,postgres,linux,vscode,bash,arduino,latex,aws&perline=10" />
 </p>
 
 ---
