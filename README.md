@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,arch,atom,aws,bash,c,cpp,dart,eclipse,fastapi,flask,flutter,git,github,java,latex,linux,matlab,maven,notion,opencv,pkl,postgres,python,pytorch,regex,replit,redhat,sklearn,sublime,tensorflow,visualstudio,vscode&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,arch,atom,aws,bash,c,cpp,dart,eclipse,fastapi,flask,flutter,git,github,java,latex,linux,matlab,maven,notion,opencv,pkl,postgres,python,pytorch,r,regex,replit,redhat,sklearn,sublime,tensorflow,visualstudio,vscode&perline=10" alt="Tech Stack Icons" />
 </p>
 
 
