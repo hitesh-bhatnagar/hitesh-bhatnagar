@@ -31,10 +31,8 @@
 
 ## 🛠️ Tech Stack & Tools
 
-
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,r,c,cpp,HDL,matlab,tensorflow,pytorch,keras,scikit-learn,opencv,dart,flutter,git,github,mysql,postgres,linux,vscode,bash,arduino,latex,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,r,c,cpp,dart,latex,matlab,linux,redhat,bash,arch,androidstudio,arduino,atom,aws,eclipse,fastapi,flask,flutter,git,github,mysql,postgres,notion,opencv,pytorch,scikit-learn,tensorflow,visualstudio,regex,replit,sublime,maven,vscode,pkl&perline=10" alt="Tech Stack Icons" />
 </p>
 
 ---
