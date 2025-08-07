@@ -165,22 +165,21 @@
 ---
 
 ## 🤝 Let’s Connect
-<p align="center">
-  <a href="mailto:hbhatnagar917@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/✉️%20Email-hbhatnagar917@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+<p align="center" style="line-height: 0;">
+  <a href="mailto:hbhatnagar917@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/✉️%20Email-hbhatnagar917@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" height="30" />
   </a>
-  <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-hitesh--bhatnagar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-hitesh--bhatnagar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://github.com/hitesh-bhatnagar" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-hitesh--bhatnagar-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/hitesh-bhatnagar" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-hitesh--bhatnagar-181717?style=for-the-badge&logo=github" alt="GitHub" height="30" />
   </a>
-  <a href="https://x.com/b55849364" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-@hitesh--bhatnagar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/b55849364" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/X-@hitesh--bhatnagar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
   </a>
 </p>
 
-</p>
 
 ---
 
