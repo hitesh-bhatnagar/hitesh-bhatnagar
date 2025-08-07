@@ -166,11 +166,19 @@
 
 ## 🤝 Let’s Connect
 <p align="center">
-  <a href="mailto:hbhatnagar917@gmail.com"><img src="https://img.shields.io/badge/✉️ Email-hbhatnagar917@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba"><img src="https://img.shields.io/badge/🔗 LinkedIn-hitesh--bhatnagar-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/hitesh-bhatnagar"><img src="https://img.shields.io/badge/🐙 GitHub-hitesh--bhatnagar-181717?style=for-the-badge&logo=github" /></a>
-[![Twitter](https://img.shields.io/badge/X-@hitesh--bhatnagar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b55849364)
-
+  <a href="mailto:hbhatnagar917@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/✉️%20Email-hbhatnagar917@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20LinkedIn-hitesh--bhatnagar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hitesh-bhatnagar" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-hitesh--bhatnagar-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://x.com/b55849364" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-@hitesh--bhatnagar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 </p>
 
