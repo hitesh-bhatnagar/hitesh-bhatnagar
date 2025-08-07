@@ -3,10 +3,8 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Hitesh Bhatnagar</h1>
-
 <p align="center">
-  <em>Aspiring Deep Learning Engineer | B.Tech ECE @ VIT Vellore | Research Intern @ IIT Goa</em><br>
+  <em>Machine Learning Engineer | Electronics and Communication Engineer | 
   <em>AI | Signal Processing | Flutter | Embedded Systems</em>
 </p>
 
@@ -66,10 +64,13 @@ End-to-end churn prediction ML app using SHAP, Streamlit, and LightGBM deployed 
 
 ### 🌐 Let's Connect
 
-- 📫 Email: [hbhatnagar917@gmail.com](mailto:hbhatnagar917@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/hitesh-bhatnagar-5a3b391ba](https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hitesh-bhatnagar)
+
+📫 Reach me: [hbhatnagar917@gmail.com](mailto:hbhatnagar917@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/hitesh-bhatnagar-5a3b391ba](https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba)
+
 - 💻 Portfolio (Coming Soon)
 
 ---
 
-<p align="center"><em>"Code, Learn, Repeat – One Project at a Time!"</em></p>
+<p align="center"><em>"Code, Learn, Repeat "</em></p>
