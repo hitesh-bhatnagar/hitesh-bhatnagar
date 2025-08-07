@@ -55,8 +55,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow Lite-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  
 </p>
 
 ---
@@ -65,7 +67,7 @@
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow Lite-orange?style=for-the-badge"/>
+  
 </p>
 
 ---
@@ -116,11 +118,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitesh-bhatnagar&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-bhatnagar&layout=compact&theme=radical" width="45%" />
+  <!-- Top Languages with custom theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-bhatnagar&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false&card_width=400" width="45%" alt="Top Languages by Hitesh" />
 </p>
+
+<p align="center">
+  <!-- Contribution Graph (beautiful theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-bhatnagar&theme=github-compact&area=true&hide_border=true&color=7fff00&line=00ffcc&point=ffffff" width="90%" alt="Contribution Graph" />
+</p>
+
 
 ---
 
