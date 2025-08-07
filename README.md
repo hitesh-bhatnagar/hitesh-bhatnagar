@@ -24,28 +24,69 @@ Hi, I’m **Hitesh Bhatnagar** – an aspiring **Electronics and Communication E
 
 ## 🛠️ Tech Stack & Tools
 
-<!-- Tech Stack Icons -->
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,seaborn,pandas,numpy,matplotlib,cpp,c,flutter,dart,html,css,js,react,nodejs,linux,git,github,arduino,vscode,matlab,mysql,postgres,streamlit" 
-    alt="Tech Stack Icons" 
-  />
-</p>
+<p align="left">
 
-<!-- Top Languages -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hitesh-bhatnagar&show_icons=true&locale=en&layout=compact&theme=radical" 
-    alt="Top Languages" 
-  />
-</p>
+<!-- Programming Languages -->
+  <img alt="Python"      src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java"        src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="R"           src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Embedded C"  src="https://img.shields.io/badge/Embedded%20C-%2300599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Verilog"     src="https://img.shields.io/badge/Verilog-FFB300?style=flat-square&logo=verilog&logoColor=white" />
+  <img alt="MATLAB"      src="https://img.shields.io/badge/MATLAB-F1972A?style=flat-square&logo=mathworks&logoColor=white" />
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hitesh-bhatnagar&show_icons=true&theme=radical&locale=en" 
-    alt="GitHub Stats" 
-  />
+<br>
+
+<!-- Machine Learning & AI -->
+  <img alt="TensorFlow"  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch"     src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Keras"       src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="OpenCV"      src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+<br>
+
+<!-- Data & Visualization -->
+  <img alt="NumPy"       src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Pandas"      src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Matplotlib"  src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img alt="Seaborn"     src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white" />
+  <img alt="Streamlit"   src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+<br>
+
+<!-- Embedded & Simulation Tools -->
+  <img alt="Proteus"     src="https://img.shields.io/badge/Proteus-0055A4?style=flat-square" />
+  <img alt="Keil uVision"src="https://img.shields.io/badge/Keil%20uVision-0F0F0F?style=flat-square" />
+  <img alt="ModelSim"    src="https://img.shields.io/badge/ModelSim-0099CC?style=flat-square" />
+  <img alt="Vivado"      src="https://img.shields.io/badge/Vivado-EE2E24?style=flat-square" />
+  <img alt="Cadence"     src="https://img.shields.io/badge/Cadence-441E55?style=flat-square" />
+  <img alt="MultiSim"    src="https://img.shields.io/badge/MultiSim-6F5499?style=flat-square" />
+  <img alt="Xilinx ISE"  src="https://img.shields.io/badge/Xilinx%20ISE-E9052F?style=flat-square" />
+
+<br>
+
+<!-- Development & IDEs -->
+  <img alt="VS Code"     src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="IntelliJ IDEA"src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img alt="Jupyter"     src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Google Colab"src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
+  <img alt="RStudio"     src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
+
+<br>
+
+<!-- Databases & Version Control -->
+  <img alt="MySQL"       src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Git"         src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git Bash"    src="https://img.shields.io/badge/Git%20Bash-DAE3F3?style=flat-square&logo=git&logoColor=black" />
+
+<br>
+
+<!-- Cloud & OS -->
+  <img alt="AWS"         src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Ubuntu"      src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Windows"     src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Arch Linux"  src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
 </p>
 
 
