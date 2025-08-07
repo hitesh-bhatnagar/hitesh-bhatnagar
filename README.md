@@ -11,27 +11,22 @@
 
 <!-- Animated Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3orieZK0c3hTxaQTW0/giphy.gif" width="200" alt="Wave Hello"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar.;Electronics+%26+Communication+Engineer+%7C+AI+%2B+Embedded+Systems;Completed+Research+Internship+at+IIT+Goa;Building+Next-Gen+ML%2FDL+%2B+Edge-AI+Solutions" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <p><strong>Electronics & Communication Engineer</strong> fascinated by  
-     <em>AI | Machine Learning | Deep Learning | NLP | LLMs | Embedded Systems</em>.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Research%20Intern-IIT%20Goa-0f5ccf?style=for-the-badge&logo=iitb" alt="IIT Goa"/>
-    <img src="https://img.shields.io/badge/VIT%20Vellore-B.Tech%20ECE-0066cc?style=for-the-badge&logo=vit" alt="VIT Vellore"/>
-  </p>
-  <p>
-    🚀 I build real-time intelligent systems—like hybrid ANC models—  
-    🤖 deploy LLM-powered apps, and  
-    🌱 continuously explore generative AI & edge-AI hardware.
-  </p>
-  <p>
-    💬 Let’s collaborate on cutting-edge AI/embedded projects!
-  </p>
+  <blockquote>
+  <p>👨‍💻 I’m an Electronics &amp; Communication Engineer turned AI/ML enthusiast.   
+  <p>🚀 I love crafting end-to-end solutions—from LLM-powered PDF summarizers and  
+  crypto-sentiment predictors, to embedded DSP pipelines on 8051/RTOS.  
+  Always exploring Generative AI, NLP, edge-AI hardware, and streaming real-time insights.</p>
+  <p>🤝 Let’s connect and build something impactful together!</p>
+  </blockquote>
 </div>
+
 
 
 ---
