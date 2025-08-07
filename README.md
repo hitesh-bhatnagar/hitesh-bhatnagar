@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar!;Electronics+%26+Communication+Engineer+%7C+AI+%26+ML+Enthusiast;Completed+Research+Internship+at+IIT+Goa;Let's+Build+Something+Extraordinary+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar;Electronics+%26+Communication+Engineer+%7C+AI+%2B+Embedded+Systems;Machine+Learning%2C+Deep+Learning%2C+LLMs%2C+NLP%2C+Signal+Processing;+%7C+DSP+%2B+AI+Fusion;Building+Real-Time+Intelligent+Systems+%F0%9F%9A%80;Open+to+Collaborations+%7C+Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
@@ -10,8 +10,6 @@
 ## 👨‍💻 About Me
 
 Hi, I’m **Hitesh Bhatnagar** – an aspiring **Electronics and Communication Engineer** with a strong passion for **AI, Machine Learning, Deep Learning**, and **Embedded Systems**.
-
-🔍 I recently completed a **Research Internship at IIT Goa**, where I worked on combining **signal processing** and **deep learning** to develop advanced **real-time Active Noise Cancellation** systems.
 
 🚀 I’ve built and deployed multiple real-world projects in areas like **PDF summarization with LLMs**, **Crypto trading sentiment analysis**, and **customer churn prediction**, blending practical ML solutions with intuitive user interfaces.
 
@@ -24,20 +22,12 @@ Hi, I’m **Hitesh Bhatnagar** – an aspiring **Electronics and Communication E
 
 ---
 
-## 🛠️ Tech Stack & Badges
-<p align="center">
-  <!-- languages -->
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-FEA035?style=for-the-badge&logo=mathworks&logoColor=white" /><br>
-  <!-- other tools -->
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/keil_μVision-007ACC?style=for-the-badge&logo=generic" />
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,c,cpp,flutter,dart,html,css,js,nodejs,react,firebase,linux,mysql,postgres,git,github,arduino,matlab,vscode,figma,streamlit" />
 </p>
+
 
 ---
 
