@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source%20Code%20Pro&size=24&duration=3000&pause=500&color=0D1117&background=FFFFFF00&center=true&vCenter=true&width=650&lines=Hi+there!+I%27m+Hitesh+Bhatnagar👋;Building+ML+%2B+Signal+Processing+Solutions;Flutter+%2B+AI+%2B+Embedded+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar;ECE+Undergrad+@+VIT+Vellore+%7C+ML+%2B+Embedded+Enthusiast;Research+Intern+%40+IIT+Goa+%7C+Signal+%2B+AI+Fusion;Building+Intelligent+Systems+that+Learn+and+Adapt;Exploring+AI%2C+DSP%2C+Edge+Computing+%2B+Real-Time+ML;Let's+Build+Impactful+Tech+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 ---
 
