@@ -1,16 +1,26 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar;ECE+Undergrad+@+VIT+Vellore+%7C+ML+%2B+Embedded+Enthusiast;Research+Intern+%40+IIT+Goa+%7C+Signal+%2B+AI+Fusion;Building+Intelligent+Systems+that+Learn+and+Adapt;Exploring+AI%2C+DSP%2C+Edge+Computing+%2B+Real-Time+ML;Let's+Build+Impactful+Tech+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar;Electronics+%26+Communication+Engineer+%7C+AI+%2B+Embedded+Systems;Passionate+about+Machine+Learning%2C+Deep+Learning%2C+LLMs%2C+NLP%2C+Signal+Processing;Research+Intern+@+IIT+Goa+%7C+DSP+%2B+AI+Fusion;Building+Real-Time+Intelligent+Systems+%F0%9F%9A%80;Open+to+Collaborations+%7C+Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
 
 
 ---
 
-## 🚀 About Me
-<p align="center">
-  🔬 Final-year ECE undergrad @ VIT Vellore & Research Intern @ IIT Goa<br>
-  💡 Passionate about Deep Learning, Signal Processing, Flutter & Full-Stack ML Apps
-</p>
+## 👨‍💻 About Me
+
+Hi, I’m **Hitesh Bhatnagar** – an aspiring **Electronics and Communication Engineer** with a strong passion for **AI, Machine Learning, Deep Learning**, and **Embedded Systems**.
+
+🔍 I recently completed a **Research Internship at IIT Goa**, where I worked on combining **signal processing** and **deep learning** to develop advanced **real-time Active Noise Cancellation** systems.
+
+🚀 I’ve built and deployed multiple real-world projects in areas like **PDF summarization with LLMs**, **Crypto trading sentiment analysis**, and **customer churn prediction**, blending practical ML solutions with intuitive user interfaces.
+
+⚙️ I love working with tools like **Python, PyTorch, TensorFlow, NumPy, Scikit-learn**, and **MATLAB**, and I'm always exploring the latest in **NLP**, **LLMs**, and **edge-AI hardware**.
+
+🌱 Currently, I’m diving deeper into **Generative AI**, **model deployment**, and real-time ML integrations for embedded platforms.
+
+🎯 I’m always open to **collaborations**, **research opportunities**, and **new challenges** in the field of intelligent systems. Let’s connect and build something impactful together!
+
 
 ---
 
