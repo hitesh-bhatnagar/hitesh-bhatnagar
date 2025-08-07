@@ -169,7 +169,10 @@
   <a href="mailto:hbhatnagar917@gmail.com"><img src="https://img.shields.io/badge/✉️ Email-hbhatnagar917@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba"><img src="https://img.shields.io/badge/🔗 LinkedIn-hitesh--bhatnagar-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/hitesh-bhatnagar"><img src="https://img.shields.io/badge/🐙 GitHub-hitesh--bhatnagar-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/🐦 Twitter-[@your_handle-1DA1F2](https://x.com/b55849364)?style=for-the-badge&logo=twitter" /></a>
+<a href="https://x.com/b55849364" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@b55849364-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+</a>
+
 </p>
 
 ---
