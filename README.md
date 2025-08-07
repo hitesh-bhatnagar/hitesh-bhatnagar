@@ -29,48 +29,59 @@
 ## 🛠️ Tech Stack & Tools
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<div align="center">
-  <!-- Programming Languages -->
+<p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r" alt="R" />
-  <img src="https://img.shields.io/badge/Embedded%20C-%2300599C?style=for-the-badge&logo=c" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/Embedded%20C-005599?style=for-the-badge&logo=c" alt="Embedded C" />
   <img src="https://img.shields.io/badge/Verilog-FFB300?style=for-the-badge" alt="Verilog" />
-  <img src="https://img.shields.io/badge/MATLAB-F1972A?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/MATLAB-F1972A?style=for-the-badge&logo=mathworks" alt="MATLAB" />
   <br/><br/>
-
-  <!-- ML / AI -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="TF" />
+  <!-- ML / AI / CV -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge" alt="Keras" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="OpenCV" />
   <br/><br/>
-
   <!-- Data & Visualization -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit" />
   <br/><br/>
-
   <!-- Embedded & Simulation -->
   <img src="https://img.shields.io/badge/Proteus-0055A4?style=for-the-badge" alt="Proteus" />
-  <img src="https://img.shields.io/badge/Keil uVision-0F0F0F?style=for-the-badge" alt="Keil" />
+  <img src="https://img.shields.io/badge/Keil%20uVision-0F0F0F?style=for-the-badge" alt="Keil uVision" />
   <img src="https://img.shields.io/badge/ModelSim-0099CC?style=for-the-badge" alt="ModelSim" />
   <img src="https://img.shields.io/badge/Vivado-EE2E24?style=for-the-badge" alt="Vivado" />
   <img src="https://img.shields.io/badge/Cadence-441E55?style=for-the-badge" alt="Cadence" />
+  <img src="https://img.shields.io/badge/MultiSim-6F5499?style=for-the-badge" alt="MultiSim" />
+  <img src="https://img.shields.io/badge/Xilinx%20ISE-E9052F?style=for-the-badge" alt="Xilinx ISE" />
   <br/><br/>
-
   <!-- Dev Tools & Cloud -->
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VSCode" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab" alt="Colab" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion" alt="Notion" />
+  <br/><br/>
+  <!-- DB & Version Control -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git" />
-</div>
+  <img src="https://img.shields.io/badge/Git%20Bash-DAE3F3?style=for-the-badge&logo=git" alt="Git Bash" />
+  <br/><br/>
+  <!-- OS & Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows" alt="Windows" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux" alt="Arch Linux" />
+</p>
+
 
 ---
 
