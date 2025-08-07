@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar;Electronics+%26+Communication+Engineer+%7C+AI+%2B+Embedded+Systems;Passionate+about+Machine+Learning%2C+Deep+Learning%2C+LLMs%2C+NLP%2C+Signal+Processing;Research+Intern+@+IIT+Goa+%7C+DSP+%2B+AI+Fusion;Building+Real-Time+Intelligent+Systems+%F0%9F%9A%80;Open+to+Collaborations+%7C+Let's+Build+Together+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar!;Electronics+%26+Communication+Engineer+%7C+AI+%26+ML+Enthusiast;Completed+Research+Internship+at+IIT+Goa;Let's+Build+Something+Extraordinary+Together!" alt="Typing SVG" />
 </p>
 
 
