@@ -155,54 +155,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <!-- Top Languages with custom theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-bhatnagar&layout=compact&theme=tokyonight&langs_count=8&hide_progress=false&card_width=400" width="45%" alt="Top Languages by Hitesh" />
-</p>
-
-<p align="center">
   <!-- Contribution Graph (beautiful theme) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-bhatnagar&theme=github-compact&area=true&hide_border=true&color=7fff00&line=00ffcc&point=ffffff" width="90%" alt="Contribution Graph" />
 </p>
 
 
----
 
-## 💼 Featured Projects
-<details>
-<summary><strong>Click to expand all projects 🔽</strong></summary>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/hitesh-bhatnagar/Crypto-Sentiment-Trading-Analysis">🔮 Crypto Sentiment Trading</a></h4>
-      • RF classifier → 77% accuracy & 0.77 F1<br>
-      • Analyzed Fear & Greed Index + Hyperliquid data<br>
-      • Feature engineering for trade-specific insights<br>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/hitesh-bhatnagar/PDF-Summarizer_APP">📄 AI PDF Summarizer</a></h4>
-      • Flutter & OpenAI API for PDF/DOC summarization<br>
-      • Real-time summary preview + share feature<br>
-      • Scalable architecture for future NLP modules<br>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/hitesh-bhatnagar/Telco-Customer-Churn-Predictor-Full-Stack-ML-App-?tab=readme-ov-file">📊 Telco Churn Predictor</a></h4>
-      • End-to-end ML pipeline + Streamlit app<br>
-      • LightGBM & Logistic Regression >80% accuracy<br>
-      • SHAP explainability & PostgreSQL backend<br>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/hitesh-bhatnagar/EEG_Epileptic_Seizure_Detection/tree/main">⚡ EEG Seizure Detection</a></h4>
-      • Deep model on Bonn EEG → 96% accuracy<br>
-      • Time-series preprocessing + spectral features<br>
-      • Python, NumPy, Scikit-learn pipelines<br>
-    </td>
-  </tr>
-  <!-- Add more rows here for each project in the same pattern -->
-</table>
-</details>
 
 ---
 
