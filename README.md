@@ -17,11 +17,8 @@
 
 <div align="center">
   <blockquote>
-  <p>👨‍💻 I’m an Electronics &amp; Communication Engineer turned AI/ML enthusiast.   
-  <p>🚀 I love crafting end-to-end solutions—from LLM-powered PDF summarizers and  
-  crypto-sentiment predictors, to embedded DSP pipelines on 8051/RTOS.  
-  Always exploring Generative AI, NLP, edge-AI hardware, and streaming real-time insights.</p>
-  <p>🤝 Let’s connect and build something impactful together!</p>
+  <p><b>Electronics & Communication Engineer</b> bridging the gap between <b>High-Performance Computing</b> and <b>Deep Learning</b>. I don't just use AI frameworks; I build the engines that run them.</p>
+  <p>🚀 Current Focus: Optimizing LLM Inference, Real-time Signal Processing, and Low-latency Embedded Kernels.</p>
   </blockquote>
 </div>
 
