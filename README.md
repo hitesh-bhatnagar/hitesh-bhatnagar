@@ -149,17 +149,7 @@ Sentiment-driven crypto market analysis pipeline combining NLP and trading signa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitesh-bhatnagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-bhatnagar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-bhatnagar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-bhatnagar&theme=tokyo-night&area=true&hide_border=true&color=00D4FF&line=00D4FF&point=ffffff" width="90%" alt="Contribution Graph"/>
 </p>
