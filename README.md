@@ -6,7 +6,7 @@
   <a href="mailto:hbhatnagar917@gmail.com"><img src="https://img.shields.io/badge/Email-hbhatnagar917@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba"><img src="https://img.shields.io/badge/LinkedIn-hitesh--bhatnagar-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="https://github.com/hitesh-bhatnagar"><img src="https://img.shields.io/badge/GitHub-hitesh--bhatnagar-181717?style=flat-square&logo=github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hitesh-bhatnagar&style=flat-square&color=00D4FF&label=Profile+Views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=hitesh-bhatnagar&style=flat-square&color=00D4FF&label=Profile+Views"/> -->
 </p>
 
 ---
@@ -194,10 +194,10 @@ Sentiment-driven crypto market analysis pipeline combining NLP and trading signa
   <a href="https://github.com/hitesh-bhatnagar">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://x.com/b55849364">
     <img src="https://img.shields.io/badge/X-@hitesh--bhatnagar-000000?style=for-the-badge&logo=x"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
