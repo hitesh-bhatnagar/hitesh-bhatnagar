@@ -1,185 +1,209 @@
-<!-- Banner -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar;Electronics+%26+Communication+Engineer+%7C+B.Tech+@+VIT+Vellore;Building+Next-Gen+ML%2FDL+%2B+Edge-AI+Solutions;Machine+Learning%2C+Deep+Learning%2C+LLMs%2C+NLP%2C+Signal+Processing;Building+Real-Time+Intelligent+Systems+%F0%9F%9A%80;Open+to+Collaborations+%7C+Let's+Build+Together+%F0%9F%92%BB" 
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Hitesh+Bhatnagar;ECE+Engineer+%40+VIT+Vellore+%7C+Research+Intern+%40+IIT+Goa;Building+High-Performance+AI+%2B+Systems+from+Scratch;C%2B%2B+RAG+Engine+%7C+RTOS+Simulator+%7C+ANC+Research;Published+in+Elsevier+%7C+IEEE+%7C+Open+to+Collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-
-
-
-
----
-
-## 👨‍💻 About Me
-
-
-<div align="center">
-  <blockquote>
-  <p><b>Electronics & Communication Engineer</b> bridging the gap between <b>High-Performance Computing</b> and <b>Deep Learning</b>. I don't just use AI frameworks; I build the engines that run them.</p>
-  <p>🚀 Current Focus: Optimizing LLM Inference, Real-time Signal Processing, and Low-latency Embedded Kernels.</p>
-  </blockquote>
-</div>
-
-
-
----
-
-## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,arch,atom,aws,bash,c,cpp,dart,eclipse,fastapi,flask,flutter,git,github,java,latex,linux,matlab,maven,notion,opencv,pkl,postgres,python,pytorch,r,regex,replit,redhat,sklearn,sublime,tensorflow,visualstudio,vscode&perline=10" alt="Tech Stack Icons" />
+  <a href="mailto:hbhatnagar917@gmail.com"><img src="https://img.shields.io/badge/Email-hbhatnagar917@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba"><img src="https://img.shields.io/badge/LinkedIn-hitesh--bhatnagar-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://github.com/hitesh-bhatnagar"><img src="https://img.shields.io/badge/GitHub-hitesh--bhatnagar-181717?style=flat-square&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=hitesh-bhatnagar&style=flat-square&color=00D4FF&label=Profile+Views"/>
 </p>
 
-
----
-## 🛠️ Tech Stack & Tools
-
 ---
 
-### 👨‍💻 Core Programming Languages
+## ⚡ About Me
+
+```
+💡 I don't just use AI frameworks — I build the engines that run them.
+```
+
+I'm an **Electronics & Communication Engineer** at VIT Vellore, bridging the gap between **low-level systems programming** and **cutting-edge Deep Learning**. My work spans from writing bare-metal C for RTOS schedulers to building C++ LLM inference engines and publishing ML research in peer-reviewed journals.
+
+- 🔬 **Research Intern @ IIT Goa** — Hybrid Deep Learning ANC model (MSE: 2.9e⁻⁵, SNR: 27.10 dB)
+- 📄 **Published in Elsevier DSP Journal (2026)** — Logistic Distance Metric Adaptive Filter for ANC
+- 🛡️ **IT Risk & AI Intern @ Aumyaa Consulting** — ITGC Audits for ONGC & BMW Financial Services
+- 🚀 **Current Focus:** LLM Inference Optimization · Real-time Signal Processing · Embedded Kernels
+
+---
+
+## 🏆 Highlights
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📰 Publications
+
+**[Elsevier – Digital Signal Processing, 2026]**
+*Design of Logistic Distance Metric Based Robust Adaptive Filter for Active Noise Control*
+
+**[IEEE – ICAAIC 2025]**
+*A Novel Three-Layer Hybrid Cryptographic Framework using Enhanced Classical Ciphers*
+
+**[ANRF-Sponsored NEleX 2026 – Provisionally Accepted]**
+*Graph-Based Zero-Day IoT Botnet Detection*
+
+</td>
+<td align="center" width="50%">
+
+### 🔬 Research @ IIT Goa
+
+Pioneered a **hybrid DL-ANC model** enhancing FxEHCAF with adaptive nonlinear filtering (SFANC):
+
+- 🧠 Lightweight CNN for noise-type classification & filter switching
+- ⚡ Adaptive LR scheduling + spectral weight decay in PyTorch
+- 📊 **MSE: 2.9e⁻⁵ · RMSE: 0.00537 · SNR: 27.10 dB**
+- 🏗️ Reduced system latency through intelligent filter switching
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [High-Performance C++ RAG Engine](https://github.com/hitesh-bhatnagar)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![LLM](https://img.shields.io/badge/-Llama.cpp-F97316?style=flat-square)
+
+Containerized local LLM inference engine built from scratch in C++:
+- 4-bit quantized (GGUF) model support with custom Top-K/Temperature sampling
+- Full RAG pipeline: document retrieval + prompt augmentation
+- Agentic File I/O tools + Docker deployment for reproducible builds
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Embedded RTOS Simulator](https://github.com/hitesh-bhatnagar/Embedded-RTOS-Simulator-C-Learning-Project)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+Full RTOS simulator in C implementing OS internals:
+- Priority-based scheduler with context switching & task states
+- IPC mechanisms: semaphores, interrupt simulation
+- CLI-based runtime task control and debugging interface
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ [Mini Database Engine in C](https://github.com/hitesh-bhatnagar)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) ![DBMS](https://img.shields.io/badge/-DBMS%20Internals-6B7280?style=flat-square)
+
+Lightweight in-memory DB engine with REPL-based SQL-like interface:
+- Insert, select, update, delete with command parsing
+- Binary search-based lookup for efficient ID-based retrieval
+- Sorted record insertion — built from DBMS internals first principles
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 [Crypto Sentiment Trading Analysis](https://github.com/hitesh-bhatnagar/Crypto-Sentiment-Trading-Analysis)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+Sentiment-driven crypto market analysis pipeline combining NLP and trading signals for data-driven decision support.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Verilog-808080?style=for-the-badge" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF2C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20C-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Verilog-808080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATLAB-FF2C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
----
-
-### 🧰 Dev Tools & IDEs
+### AI / ML / DL
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
-  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
----
-
-### ☁️ Cloud & Platforms
+### Systems & Hardware
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/FPGA-AA00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keil%20uVision-003366?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/8051%20MCU-darkgreen?style=for-the-badge"/>
 </p>
 
----
-
-### 🔧 Simulation & Embedded
+### Cloud & Tools
 <p>
-  <img src="https://img.shields.io/badge/Proteus-blue?style=for-the-badge" alt="Proteus"/>
-  <img src="https://img.shields.io/badge/ModelSim-darkblue?style=for-the-badge" alt="ModelSim"/>
-  <img src="https://img.shields.io/badge/MultiSim-purple?style=for-the-badge" alt="MultiSim"/>
-  <img src="https://img.shields.io/badge/Keil%20uVision-003366?style=for-the-badge" alt="Keil uVision"/>
-  <img src="https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge" alt="Vivado"/>
-  <img src="https://img.shields.io/badge/NetSim-navy?style=for-the-badge" alt="NetSim"/>
-  <img src="https://img.shields.io/badge/FPGA-fuchsia?style=for-the-badge" alt="FPGA"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
 
-### 🤖 AI / ML / DL
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow%20Lite-orange?style=for-the-badge" alt="TF Lite"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn"/>
-</p>
-
----
-
-### 📊 Data & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge" alt="SHAP"/>
-</p>
-
----
-
-### 🗄️ Databases & Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
----
-
-### 🖥️ Operating Systems & Environments
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
-  <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
-
----
-
-### 🔧 Miscellaneous & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/RegEx-FFA500?style=for-the-badge" alt="Regex"/>
-  <img src="https://img.shields.io/badge/PKL-999999?style=for-the-badge" alt="PKL File"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office"/>
-</p>
-
----
-
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Contribution Graph (beautiful theme) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-bhatnagar&theme=github-compact&area=true&hide_border=true&color=7fff00&line=00ffcc&point=ffffff" width="90%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hitesh-bhatnagar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-bhatnagar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 </p>
-
-
-
-
----
-
-## 🤝 Let’s Connect
-<p align="center" style="line-height: 0;">
-  <a href="mailto:hbhatnagar917@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/✉️%20Email-hbhatnagar917@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" height="30" />
-  </a>
-  <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-hitesh--bhatnagar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://github.com/hitesh-bhatnagar" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/🐙%20GitHub-hitesh--bhatnagar-181717?style=for-the-badge&logo=github" alt="GitHub" height="30" />
-  </a>
-  <a href="https://x.com/b55849364" target="_blank" rel="noopener noreferrer" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/X-@hitesh--bhatnagar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
-  </a>
-</p>
-
-
----
 
 <p align="center">
-  <em>“Turning data into insights, one model at a time.”</em>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-bhatnagar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-bhatnagar&theme=tokyo-night&area=true&hide_border=true&color=00D4FF&line=00D4FF&point=ffffff" width="90%" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:hbhatnagar917@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hbhatnagar917@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/hitesh-bhatnagar-5a3b391ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/hitesh-bhatnagar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/b55849364">
+    <img src="https://img.shields.io/badge/X-@hitesh--bhatnagar-000000?style=for-the-badge&logo=x"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>🎯 Open to Research Collaborations · ML/Systems Roles · Internships</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" width="100%"/>
 </p>
