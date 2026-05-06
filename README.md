@@ -43,20 +43,6 @@ I'm an **Electronics & Communication Engineer** at VIT Vellore, bridging the gap
 **[ANRF-Sponsored NEleX 2026 – Provisionally Accepted]**
 *Graph-Based Zero-Day IoT Botnet Detection*
 
-</td>
-<td align="center" width="50%">
-
-### 🔬 Research @ IIT Goa
-
-Pioneered a **hybrid DL-ANC model** enhancing FxEHCAF with adaptive nonlinear filtering (SFANC):
-
-- 🧠 Lightweight CNN for noise-type classification & filter switching
-- ⚡ Adaptive LR scheduling + spectral weight decay in PyTorch
-- 📊 **MSE: 2.9e⁻⁵ · RMSE: 0.00537 · SNR: 27.10 dB**
-- 🏗️ Reduced system latency through intelligent filter switching
-
-</td>
-</tr>
 </table>
 
 ---
@@ -201,7 +187,7 @@ Sentiment-driven crypto market analysis pipeline combining NLP and trading signa
 </p>
 
 <p align="center">
-  <em>🎯 Open to Research Collaborations · ML/Systems Roles · Internships</em>
+  <em>🎯 Open to Research Collaborations · ML/Systems Roles · Team Projects · Hackathons/Contests </em>
 </p>
 
 <p align="center">
